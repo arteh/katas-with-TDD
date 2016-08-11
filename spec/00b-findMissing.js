@@ -30,10 +30,3 @@ describe('findMissing', function () {
  What should happen if someone passes in an object with the right property names but the values aren’t strings?*/
 
 
-// it('should return an array', function () {
-//   expect(findMissing([1, 2])).to.equal([1, 2]);
-// });
-
-// it('should only take an array of 9 numbers', function () {
-//   expect(findMissing(array.length)).to.equal(9);
-// })
